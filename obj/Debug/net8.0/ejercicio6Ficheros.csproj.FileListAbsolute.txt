@@ -1,0 +1,14 @@
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio6Ficheros\bin\Debug\net8.0\ejercicio6Ficheros.exe
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio6Ficheros\bin\Debug\net8.0\ejercicio6Ficheros.deps.json
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio6Ficheros\bin\Debug\net8.0\ejercicio6Ficheros.runtimeconfig.json
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio6Ficheros\bin\Debug\net8.0\ejercicio6Ficheros.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio6Ficheros\bin\Debug\net8.0\ejercicio6Ficheros.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio6Ficheros\obj\Debug\net8.0\ejercicio6Ficheros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio6Ficheros\obj\Debug\net8.0\ejercicio6Ficheros.AssemblyInfoInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio6Ficheros\obj\Debug\net8.0\ejercicio6Ficheros.AssemblyInfo.cs
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio6Ficheros\obj\Debug\net8.0\ejercicio6Ficheros.csproj.CoreCompileInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio6Ficheros\obj\Debug\net8.0\ejercicio6Ficheros.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio6Ficheros\obj\Debug\net8.0\refint\ejercicio6Ficheros.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio6Ficheros\obj\Debug\net8.0\ejercicio6Ficheros.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio6Ficheros\obj\Debug\net8.0\ejercicio6Ficheros.genruntimeconfig.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio6Ficheros\obj\Debug\net8.0\ref\ejercicio6Ficheros.dll
