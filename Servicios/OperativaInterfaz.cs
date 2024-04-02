@@ -8,10 +8,10 @@ namespace ejercicio6Ficheros.Servicios
 {
     internal interface OperativaInterfaz
     {
-        public void modificarLinea(string[] lineas);
+        public void modificarLinea(string[] lineas, string ruta);
 
-        public void insertarTexto(string[] lineas);
+        public void insertarTexto(string[] lineas, string ruta);
 
-        public void guardarFichero(string[] lineas);
+        public void guardarFichero(string[] lineas, string ruta);
     }
 }

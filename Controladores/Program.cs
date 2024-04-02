@@ -25,13 +25,13 @@ namespace ejercicio6Ficheros.Controladores
                         cerrarMenu = true;
                         break;
                     case 1:
-                        op.modificarLinea(lineas);
+                        op.modificarLinea(lineas,ruta);
                         break;
                     case 2:
-                        op.insertarTexto(lineas);
+                        op.insertarTexto(lineas, ruta);
                         break;
                     case 3:
-                        op.guardarFichero(lineas);
+                        op.guardarFichero(lineas, ruta);
                         break;
                 }
             }

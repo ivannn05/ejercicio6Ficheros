@@ -12,3 +12,4 @@ C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio6Ficheros\obj\Debug\net8.0\
 C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio6Ficheros\obj\Debug\net8.0\ejercicio6Ficheros.pdb
 C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio6Ficheros\obj\Debug\net8.0\ejercicio6Ficheros.genruntimeconfig.cache
 C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio6Ficheros\obj\Debug\net8.0\ref\ejercicio6Ficheros.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio6Ficheros\obj\Debug\net8.0\ejercicio6Ficheros.sourcelink.json

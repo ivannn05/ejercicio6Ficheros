@@ -8,17 +8,18 @@ namespace ejercicio6Ficheros.Servicios
 {
     internal class OperativaImplementacion:OperativaInterfaz
     {
-        public void guardarFichero(string[] lineas)
+        public void guardarFichero(string[] lineas, string ruta)
         {
-            string ruta = "C:\\Users\\csi23-iloposa\\Desktop\\Archivo.txt";
+           
 
             File.WriteAllLines(ruta, lineas);
 
         }
 
-        public void insertarTexto(string[] lineas)
+        public void insertarTexto(string[] lineas,string ruta)
         {
            
+            Console.WriteLine("El archivo contiene: \n"+File.ReadAllText(ruta));
 
 
             Console.WriteLine("Indique el numero de linea ");
@@ -39,9 +40,9 @@ namespace ejercicio6Ficheros.Servicios
            
         }
 
-        public void modificarLinea(string[] lineas)
+        public void modificarLinea(string[] lineas, string ruta)
         {
-           
+            Console.WriteLine("El archivo contiene: \n" + File.ReadAllText(ruta));
 
             Console.WriteLine("Indique el numero de linea ");
             int numeroLinea = Convert.ToInt32(Console.ReadLine());
@@ -50,7 +51,7 @@ namespace ejercicio6Ficheros.Servicios
           
 
             lineas[numeroLinea - 1] = texto;
-            guardarFichero(lineas ) ;
+           
           
 
 
